@@ -69,8 +69,9 @@ plt.rcParams.update({
 
 # ── Paths ──────────────────────────────────────────────────────────────────────
 BASE_DIR    = os.path.dirname(os.path.abspath(__file__))
-DATA_DIR    = os.path.join(BASE_DIR, "Equity_1min")
-OUTPUT_DIR  = os.path.join(BASE_DIR, "outputs")
+PROJECT_DIR = os.path.dirname(BASE_DIR)
+DATA_DIR    = os.path.join(PROJECT_DIR, "data", "raw", "Equity_1min")
+OUTPUT_DIR  = os.path.join(PROJECT_DIR, "outputs")
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # ==============================================================================
