@@ -1,2 +1,4 @@
 *.zip
 outputs/
+data/
+om_data/
