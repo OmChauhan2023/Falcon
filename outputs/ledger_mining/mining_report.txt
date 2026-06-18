@@ -1,0 +1,41 @@
+
+======================================================================
+  TRADE LEDGER MINING REPORT
+======================================================================
+
+1. MONTHLY (SEGMENT) PERFORMANCE
+  2025-02 | Trades: 19.0 | Avg R:  0.50 | Win Rate:  52.6% | Total PnL: Rs12,774
+  2025-03 | Trades: 29.0 | Avg R:  1.60 | Win Rate:  75.9% | Total PnL: Rs84,550
+  2025-04 | Trades: 23.0 | Avg R:  1.32 | Win Rate:  65.2% | Total PnL: Rs77,079
+  2025-05 | Trades: 14.0 | Avg R:  0.34 | Win Rate:  28.6% | Total PnL: Rs-18,781
+  2025-06 | Trades: 18.0 | Avg R:  0.67 | Win Rate:  27.8% | Total PnL: Rs-16,870
+  2025-07 | Trades: 16.0 | Avg R:  0.61 | Win Rate:  37.5% | Total PnL: Rs-13,452
+  2025-08 | Trades: 6.0 | Avg R:  0.10 | Win Rate:  16.7% | Total PnL: Rs-9,204
+  2025-09 | Trades: 10.0 | Avg R:  0.71 | Win Rate:  40.0% | Total PnL: Rs-2,277
+  2025-10 | Trades: 2.0 | Avg R:  2.60 | Win Rate: 100.0% | Total PnL: Rs16,908
+  2025-11 | Trades: 6.0 | Avg R:  0.92 | Win Rate:  66.7% | Total PnL: Rs3,598
+  2025-12 | Trades: 15.0 | Avg R:  0.44 | Win Rate:  33.3% | Total PnL: Rs-19,465
+  2026-01 | Trades: 23.0 | Avg R:  1.36 | Win Rate:  73.9% | Total PnL: Rs49,175
+
+2. SESSION PERFORMANCE
+  Close    | Trades: 75.0 | Avg R:  1.05 | Win Rate:  56.0% | Total PnL: Rs111,580
+  Midday   | Trades: 106.0 | Avg R:  0.85 | Win Rate:  50.0% | Total PnL: Rs52,456
+
+3. VOLATILITY REGIME PERFORMANCE
+  High Vol | Trades: 47.0 | Avg R:  1.62 | Win Rate:  72.3% | Total PnL: Rs210,191
+  Low Vol  | Trades: 67.0 | Avg R:  0.17 | Win Rate:  14.9% | Total PnL: Rs-109,423
+  Mid Vol  | Trades: 67.0 | Avg R:  1.22 | Win Rate:  76.1% | Total PnL: Rs63,267
+
+4. PROBABILITY DECILE PERFORMANCE
+  0.65-0.67 | Trades: 89.0 | Avg R:  0.65 | Win Rate:  47.2% | Total R: 57.67R
+  0.67-0.70 | Trades: 62.0 | Avg R:  1.22 | Win Rate:  61.3% | Total R: 75.53R
+  0.70-0.73 | Trades: 24.0 | Avg R:  1.10 | Win Rate:  50.0% | Total R: 26.43R
+  0.73-0.75 | Trades: 5.0 | Avg R:  1.40 | Win Rate:  40.0% | Total R:  6.99R
+  0.75+     | Trades: 1.0 | Avg R:  2.59 | Win Rate: 100.0% | Total R:  2.59R
+
+5. THE 80/20 TRADES (TOP 3 REGIME+SESSION CLUSTERS)
+  Midday  + Mid Vol  | Trades: 41.0 | Avg R:  1.50 | Total R: 61.51R
+  Close   + High Vol | Trades: 29.0 | Avg R:  1.70 | Total R: 49.24R
+  Midday  + High Vol | Trades: 18.0 | Avg R:  1.50 | Total R: 27.05R
+
+======================================================================
