@@ -116,7 +116,7 @@ class FeatureEngineer:
         df['bb_lower'] = mid - 2 * std
         df['bb_width'] = (df['bb_upper'] - df['bb_lower']) / (mid + 1e-10)
         df['bb_squeeze_pct'] = df['bb_width'].rolling(100).apply(
-            lambda x: pd.Series(x).rank(pct=True).iloc[-1] if len(x) > 0 else 0.5, raw=True
+            lambda x: (x <= x[-1]).mean() if len(x) > 0 else 0.5, raw=True
         )
         df['sma_200'] = df['close'].rolling(200 * 375).mean()
         df['dist_from_200dma'] = (df['close'] - df['sma_200']) / (df['atr'] * np.sqrt(200) + 1e-10)
